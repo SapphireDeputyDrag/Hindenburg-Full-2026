@@ -1,0 +1,23 @@
+{
+  "repo": "hindenburg-full-2026",
+  "product": "Hindenburg Full 2026",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "audio-production",
+  "topics": [
+    "hindenburg-full",
+    "hindenburg-windows",
+    "audio-production-desktop",
+    "how-to-install-hindenburg",
+    "hindenburg-full-desktop-package",
+    "hindenburg-workspace",
+    "hindenburg-2026",
+    "hindenburg-full-pro-tools",
+    "hindenburg-suite",
+    "zentool-hindenburg"
+  ],
+  "site": "zentool.art"
+}
